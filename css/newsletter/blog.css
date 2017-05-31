@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Montserrat:100,200,300,400,500,600,700,800,900|Playfair+Display|Raleway|Roboto+Slab');
+
+html div body object {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+	font-family: 'Montserrat', Veranda, sans-serif;
+	font-weight: 300;
+	font-size: 32px;
+	color: #000000;
+}
+
+h2 {
+	font-family: 'Montserrat', Veranda, sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+	color: #000000;
+	text-align: center
+}
+
+b {
+	font-weight: 700;
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	font-family: 'Montserrat', Veranda, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h4 {
+    font-family: 'Montserrat', Veranda, sans-serif;
+	font-weight: 700;
+	font-size: 42px;
+}
+
+p {
+    font-family: 'Raleway', Sans-Serif;
+    font-weight: 200;
+    color: #000000;
+}
+
+.title-last {
+	font-weight:700;
+}
+
+.top-section {
+    height: 500px;
+    background-position: 50% 50%;
+    text-align: center;
+    background-color: #E9AE25;
+    background-image: url("file:///Users/Tigerstok/Documents/resources/newsletter/images/top-section-image.jpeg");
+    background-size: cover;
+}
+
+.top-section-navagation {
+	height: 100px;
+}
+
+.top-section-content {
+    align-content: center;
+    padding-top: 20px;
+}
+
+.top-section-content-full {
+    opacity: 0.90;
+}
+
+.newest-post-content {
+	padding: 0px;
+	margin: 0px;
+	padding-top: 30px;
+}
+
+.period-posts {
+    background-image: url("file:///Users/Tigerstok/Documents/resources/newsletter/images/period-posts.jpg");
+    background-color: #E9AE25;
+    padding: 60px;
+}
+
+.period-posts h1 {
+	font-family: 'Montserrat', Veranda, sans-serif;
+	font-weight: 700;
+	font-size: 36px;
+	padding: 30px;
+	padding-left: 30px;
+}
+
+.ending-note {
+    background-color: #2B2B2B;
+    color: #F7F7F7;
+}
+
+#section {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.posts {
+	background-image: url("file:///Users/Tigerstok/Documents/resources/newsletter/images/recent-post.jpeg");
+	background-size: cover;
+}
+
+.posts-wrapper {
+	margin-left: 130px;
+	margin-right: 130px;
+	margin-bottom: 0px;
+}
+
+.posts h1 {
+	color: #000000;
+}
+
+object {
+	height: 260px;
+}
+
+.btn {
+	-webkit-border-radius: 60;
+	-moz-border-radius: 60;
+	border-radius: 60px;
+	font-family: 'Montserrat', veranda, sans-serif;
+	font-weight: 700;
+	color: #EBEBEB;
+	font-size: 14px;
+	background: #E9AE25;
+	padding: 5px 15px 5px 15px;
+	text-decoration: none;
+	border: solid #E9AE25 4px;
+	margin-left: 0px;
+	margin-bottom: 60px;
+}
+
+.btn:hover {
+	background: transparent;
+	text-decoration: none;
+	border: solid #E9AE25 4px;
+	color: #E9AE25;
+}
