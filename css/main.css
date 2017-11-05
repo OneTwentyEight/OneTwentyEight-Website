@@ -87,3 +87,7 @@ h3.brand-title {
 	text-align: center;
 	margin-top: -26px;
 }
+
+h1.404-title {font-family: 'Montserrat', veranda, sans-serif; font-size: 200px;}
+h2.404-subtitle {font-family: 'Montserrat', veranda, sans-serif; font-size: 100px;}
+p.404-return-home {font-family: 'Montserrat', veranda, sans-serif; font-sizze: 20px;}
